@@ -33,3 +33,5 @@ conda activate visa
 ```bash
 pip install -r requirements.txt
 ```
+
+mongodb+srv://srinu:srinu@cluster0.obinzjd.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
